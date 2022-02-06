@@ -1,5 +1,6 @@
 # Watches landing page
-A webpage to prove my Skills.
+A webpage to prove my skills.
+HTML and CSS validations are passed successfully.
 ## Technologies
 - HTML
 - CSS
